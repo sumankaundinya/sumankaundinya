@@ -16,6 +16,12 @@ I’m a **full-stack web developer** in the making, passionate about building dy
 
 ---
 
+### 🎓 Education
+- **Bachelor's in Electronics and Communication Engineering**
+- **Master's in Computer Science and Engineering**
+  
+---
+
 ### 💻 Current Projects & Highlights
 - 🥗 **Meal-Sharing API**: A REST API for listing, creating, and managing meal reservations and reviews using **Node.js**, **Express.js**, **Knex.js**, and **MySQL**.
 - 🔍 **Search Engine Warmup**: Exploring API design and local data handling in Node.js.
