@@ -48,8 +48,8 @@ I am a **full-stack web developer** in the making, passionate about building dyn
 ---
 
 ### 🌐 Connect with me
-- 📧 [Email Me](mailto:sumankaundinya@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com)
+- 📧 [Email Me](mailto:sumanj241118@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/suman-j-1884b536a)
 
 ---
 
