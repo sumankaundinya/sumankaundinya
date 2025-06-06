@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi there, I'm Suman 👋
 
-<!--
-**sumankaundinya/sumankaundinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **full-stack web developer in the making**, passionate about building dynamic and user-friendly applications. I’m **almost finished with my training at Hack Your Future**, where I’ve covered everything from **HTML** and **CSS** to **Node.js**, and now I’m diving deep into **React.js** and **Next.js** to create modern, performant web applications!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 My Learning Path
+- 🎓 **Hack Your Future (almost completed!)**: Full-stack web development journey from HTML to advanced React.js and Next.js.
+- 📜 **HTML & CSS**: Crafting structured and stylish web pages.
+- 🖥️ **JavaScript**: Bringing interactivity and logic to the frontend.
+- 🔧 **Git**: Version control and collaborative workflows.
+- 💻 **Node.js**: Backend APIs and integrations.
+- 🗄️ **MySQL**: Relational databases for storing and managing data.
+- ⚛️ **React.js**: Building reactive UIs (currently learning).
+- ⚡ **Next.js**: Exploring server-side rendering and advanced React features (upcoming).
+
+---
+
+### 💻 Current Projects & Highlights
+- 🥗 **Meal-Sharing API**: A REST API for listing, creating, and managing meal reservations and reviews using **Node.js**, **Express.js**, **Knex.js**, and **MySQL**.
+- 🔍 **Search Engine Warmup**: Exploring API design and local data handling in Node.js.
+- 📜 **Recipe App**: A JavaScript-based app built during my JavaScript course, featuring interactive recipe searches and dynamic content.
+- ⚛️ **React Components & Next.js Pages**: Excited to build dynamic UIs with React and Next.js!
+
+---
+
+### 🚀 Skills So Far
+- **HTML & CSS**
+- **JavaScript (ES6+)**
+- **Git & GitHub**
+- **Node.js / Express.js**
+- **Knex.js** (SQL query builder)
+- **MySQL** (database management)
+- **React.js** (in progress)
+- **Next.js** (coming soon)
+
+---
+
+### 📈 GitHub Stats
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumankaundinya&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with me
+- 📧 [Email Me](mailto:sumankaundinya@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/suman-jujjuru-668192110)
+
+---
+
+Thanks for visiting my profile! 🚀  
+Let’s build something awesome together!
