@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Suman 👋
+# 👋 Hi there, I am Suman 👋
 
-I’m a **full-stack web developer in the making**, passionate about building dynamic and user-friendly applications. I’m **almost finished with my training at Hack Your Future**, where I’ve covered everything from **HTML** and **CSS** to **Node.js**, and now I’m diving deep into **React.js** and **Next.js** to create modern, performant web applications!
+I’m a **full-stack web developer** in the making, passionate about building dynamic and user-friendly applications. I’m **almost finished with my training at Hack Your Future**, where I’ve covered everything from **HTML** and **CSS** to **Node.js**, and now I’m diving deep into **React.js** and **Next.js** to create modern, performant web applications!
 
 ---
 
