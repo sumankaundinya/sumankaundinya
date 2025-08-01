@@ -4,8 +4,12 @@ I am a full-stack web developer in the making, passionate about building dynamic
 
 Currently, I’m working with React.js and Next.js to build modern, full-stack web apps with dynamic routing, API integration, and responsive UI using Material UI. My latest project, a Meal Sharing app, brings together everything I’ve learned — from backend APIs to frontend deployment on Render.
 
+---
 
-
+### 🎓 Education
+- **Bachelor's in Electronics and Communication Engineering**
+- **Master's in Computer Science and Engineering**
+  
 ---
 
 ### 🌱 My Learning Path
@@ -42,10 +46,6 @@ Preparing video walkthroughs with OBS, combining camera + code demos.
 🧪 Ongoing
 Final Meal Sharing project in progress — includes dynamic routing, form handling, API integration, search/sort, and database interactions.
 
-### 🎓 Education
-- **Bachelor's in Electronics and Communication Engineering**
-- **Master's in Computer Science and Engineering**
-  
 ---
 
 ### 🥗 Meal Sharing App (Full-Stack – In Progress)  
