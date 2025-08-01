@@ -5,14 +5,17 @@ I am a **full-stack web developer** in the making, passionate about building dyn
 ---
 
 ### 🌱 My Learning Path
-- 🎓 **Hack Your Future (almost completed!)**: Full-stack web development journey from HTML to advanced React.js and Next.js.
-- 📜 **HTML & CSS**: Crafting structured and stylish web pages.
-- 🖥️ **JavaScript**: Bringing interactivity and logic to the frontend.
-- 🔧 **Git**: Version control and collaborative workflows.
-- 💻 **Node.js**: Backend APIs and integrations.
-- 🗄️ **MySQL**: Relational databases for storing and managing data.
-- ⚛️ **React.js**: Building reactive UIs (currently learning).
-- ⚡ **Next.js**: Exploring server-side rendering and advanced React features (upcoming).
+🎓 Hack Your Future (nearly completed!): Full-stack web development bootcamp covering everything from the basics to production-ready apps.
+📜 HTML & CSS: Mastered semantic structure and responsive design with CSS Modules.
+🖥️ JavaScript: Proficient in ES6+, asynchronous code (Promises, async/await), and DOM manipulation.
+🔧 Git & GitHub: Comfortable with branching, merging, resolving conflicts, stashing, cherry-picking, and resetting commits.
+💻 Node.js: Built RESTful APIs and learned how to connect backend services to databases.
+🗄️ MySQL: Designed and queried relational databases; deployed on Clever Cloud.
+⚛️ React.js: Developing reusable components, managing state with hooks (useState, useEffect, useRef, useContext, useReducer).
+⚡ Next.js: Building full-stack apps with the App Router, SSR, SSG, dynamic routes, and API routes.
+✍️ UI & UX: Using Material UI and CSS Modules for styling; focused on accessibility and user experience.
+📽️ Presenting Projects: Preparing video walkthroughs with OBS, combining camera + code demos.
+🧪 Ongoing: Meal Sharing project in progress — features dynamic routing, form handling, API integration, search/sort, and database interactions.
 
 ---
 
