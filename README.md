@@ -40,8 +40,7 @@ Using Material UI and CSS Modules for styling; focused on accessibility and user
 Preparing video walkthroughs with OBS, combining camera + code demos.
 
 🧪 Ongoing
-Meal Sharing project in progress — includes dynamic routing, form handling, API integration, search/sort, and database interactions.
----
+Final Meal Sharing project in progress — includes dynamic routing, form handling, API integration, search/sort, and database interactions.
 
 ### 🎓 Education
 - **Bachelor's in Electronics and Communication Engineering**
