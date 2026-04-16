@@ -34,12 +34,10 @@ I build scalable, user‑friendly digital products with a focus on clean archite
 - Built **unit & integration tests** using Vite + Vitest  
 - Developed **real‑time API health checks**  
 - Contributed to multiple production pull requests end‑to‑end  
-> “Designed and deployed a Contract Management Dashboard with dynamic data tracking…” (from CV)
 
 ### **Full Stack Developer Trainee — HackYourFuture, Denmark (2025)**
 - Built full‑stack applications using **React, Next.js, Node.js, MySQL**  
-- Delivered responsive UIs and clean, version‑controlled code in an agile environment  
-> “Developed full‑stack web applications with React, Next.js, Node.js…” (from CV)
+- Delivered responsive UIs and clean, version‑controlled code in an agile environment
 
 ---
 
@@ -50,7 +48,6 @@ I build scalable, user‑friendly digital products with a focus on clean archite
 - Built with **React (Vite), Tailwind, shadcn/ui**  
 - Authentication & DB using **Supabase**  
 - Production deployment on **Render** with custom DNS  
-> “Developed a marketplace for chefs and customers…” (from CV)
 
 ### **HackYourFuture Portfolio Projects**
 - Recipe App  
