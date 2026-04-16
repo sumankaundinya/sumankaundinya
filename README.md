@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suman J  
+# 👋 Hi, I am Suman J  
 **Full‑Stack Developer | React • Next.js • Node.js • TypeScript**
 
 I build scalable, user‑friendly digital products with a focus on clean architecture, performance, and developer experience. My work spans frontend engineering, backend API development, automated testing, and cloud deployments.
