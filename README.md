@@ -1,125 +1,72 @@
-# 👋 Hi there, I am Suman 👋
+# 👋 Hi, I'm Suman J  
+**Full‑Stack Developer | React • Next.js • Node.js • TypeScript**
 
-I am a full-stack web developer in the making, passionate about building dynamic, user-focused applications. I’m nearing completion of my training at Hack Your Future, where I’ve gained hands-on experience in HTML, CSS, JavaScript, Node.js, MySQL, and Git.
-
-Currently, I’m working with React.js and Next.js to build modern, full-stack web apps with dynamic routing, API integration, and responsive UI using Material UI. My latest project, a Meal Sharing app, brings together everything I’ve learned — from backend APIs to frontend deployment on Render.
-
----
-
-### 🎓 Education
-- **Bachelor's in Electronics and Communication Engineering**
-- **Master's in Computer Science and Engineering**
-  
----
-
-### 🌱 My Learning Path
-🎓 Hack Your Future (nearly completed!)
-Full-stack web development bootcamp covering everything from the basics to production-ready apps.
-
-📜 HTML & CSS
-Mastered semantic structure and responsive design with CSS Modules.
-
-🖥️ JavaScript
-Proficient in ES6+, asynchronous code (Promises, async/await), and DOM manipulation.
-
-🔧 Git & GitHub
-Comfortable with branching, merging, resolving conflicts, stashing, cherry-picking, and resetting commits.
-
-💻 Node.js
-Built RESTful APIs and learned how to connect backend services to databases.
-
-🗄️ MySQL
-Designed and queried relational databases; deployed on Clever Cloud.
-
-⚛️ React.js
-Developing reusable components, managing state with hooks (useState, useEffect, useRef, useContext, useReducer).
-
-⚡ Next.js
-Building full-stack apps with the App Router, SSR, SSG, dynamic routes, and API routes.
-
-✍️ UI & UX
-Using Material UI and CSS Modules for styling; focused on accessibility and user experience.
-
-📽️ Presenting Projects
-Preparing video walkthroughs with OBS, combining camera + code demos.
-
-🧪 Ongoing
-Final Meal Sharing project in progress — includes dynamic routing, form handling, API integration, search/sort, and database interactions.
+I build scalable, user‑friendly digital products with a focus on clean architecture, performance, and developer experience. My work spans frontend engineering, backend API development, automated testing, and cloud deployments.
 
 ---
 
-### 🥗 Meal Sharing App (Full-Stack – In Progress)  
-A dynamic app to browse meals, make reservations, and leave reviews.  
-**Frontend:** Next.js (App Router), React, CSS Modules, Material UI  
-**Backend:** Node.js, Express, Knex.js, MySQL  
-**Hosting:** Frontend & backend deployed on Render  
-
-**Key Features:**  
-- Dynamic routes (`/meals/[id]`)  
-- Meal availability, search, and sort  
-- Reservation & review forms (API integration)  
-- Conditional UI rendering
-
-### 🔍 Search Engine Warmup
-A Node.js project to practice API design and local data handling.  
-**Technologies:** Node.js, Express, local JSON database.  
-
-**Highlights:**
-- Filtering and sorting results
-- Manual RESTful routing
-- Practical API design patterns
+## 🚀 About Me
+- Full‑stack developer with hands‑on experience in **React, Next.js, Node.js, TypeScript, PostgreSQL, MySQL**  
+- Strong focus on **performance optimisation, data‑flow efficiency, and automated testing**  
+- Experience working in **agile teams**, contributing to production‑ready features and CI/CD pipelines  
+- Passionate about building reliable, secure, and maintainable systems
 
 ---
 
-### 📜 Recipe App
-JavaScript project built during the JS module.  
-**Technologies:** Vanilla JavaScript, HTML, CSS  
+## 🛠️ Tech Stack
 
-**Features:**
-- Search functionality
-- Dynamic content rendering
-- DOM manipulation & async data fetching
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+), Ant Design  
+**Backend:** Node.js, Express, REST APIs, PostgreSQL, MySQL  
+**Testing & Tools:** Vitest, Vite, Sentry, Git/GitHub (CI/CD), hCaptcha, reCAPTCHA  
+**Concepts:** State Management, Performance Optimisation, Responsive Design, Operational Planning Logic
 
 ---
 
-### ⚛️ React Components & Next.js Pages
-Currently building custom components and pages using React and Next.js.  
+## 💼 Experience
 
-**Focus Areas:**
-- Component design (`PlanetCard`, `WishlistItem`, `ReviewForm`, `ReservationForm`)
-- State management (`useState`, `useEffect`, `useContext`, `useReducer`)
-- App Router routing (SSG, SSR, dynamic routes)
-- Form validation and controlled inputs
+### **Full Stack Developer Intern — CostBits, Denmark (2025–Present)**
+- Built a **Contract Management Dashboard** with dynamic data tracking and compliance alerts  
+- Refactored Issues Tracker & Supplier modules for **UI consistency and readability**  
+- Integrated **Google reCAPTCHA & hCaptcha** for secure onboarding  
+- Improved data‑fetching using **custom hooks**, eliminating redundant API calls  
+- Integrated **Sentry with X‑Correlation‑Id** for cross‑stack debugging  
+- Migrated heavy bar‑charts to **optimised line charts** for better performance  
+- Built **unit & integration tests** using Vite + Vitest  
+- Developed **real‑time API health checks**  
+- Contributed to multiple production pull requests end‑to‑end  
+> “Designed and deployed a Contract Management Dashboard with dynamic data tracking…” (from CV)
 
----
-
-### 🚀 Skills So Far
-
-- HTML & CSS (CSS Modules)
-- JavaScript (ES6+)
-- Git & GitHub
-- Node.js / Express.js
-- Knex.js
-- MySQL (Clever Cloud)
-- React.js (Hooks, Context)
-- Next.js (App Router, API Routes)
-- Material UI (MUI)
-- Form Handling
-- Deployment on Render
-
+### **Full Stack Developer Trainee — HackYourFuture, Denmark (2025)**
+- Built full‑stack applications using **React, Next.js, Node.js, MySQL**  
+- Delivered responsive UIs and clean, version‑controlled code in an agile environment  
+> “Developed full‑stack web applications with React, Next.js, Node.js…” (from CV)
 
 ---
 
-### 📈 GitHub Stats
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumankaundinya&show_icons=true&theme=radical)
+## 📌 Projects
+
+### **MyHomePlate — Marketplace for Chefs & Customers**  
+🔗 www.myhomeplate.in  
+- Built with **React (Vite), Tailwind, shadcn/ui**  
+- Authentication & DB using **Supabase**  
+- Production deployment on **Render** with custom DNS  
+> “Developed a marketplace for chefs and customers…” (from CV)
+
+### **HackYourFuture Portfolio Projects**
+- Recipe App  
+- Meal Sharing  
+- CareConnect  
+Built with **React, Next.js, Node.js, MySQL**
 
 ---
 
-### 🌐 Connect with me
-- 📧 [Email Me](mailto:sumanj241118@gmail.com)
-- 💼 [LinkedIn](linkedin.com/in/sumankkj)
+## 🎓 Education
+- **M.Tech — Computer Science Engineering (2006–2008)**  
+- **B.Tech — Electronics & Communication Engineering (2001–2005)**  
+- Permanent Resident, Denmark (since 2024)
 
 ---
 
-Thanks for visiting my profile! 🚀  
-Let’s build something awesome together!
+## 📫 Contact
+📧 sumanj241118@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/sumankkj  
