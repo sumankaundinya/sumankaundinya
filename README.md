@@ -24,7 +24,7 @@ I build scalable, user‑friendly digital products with a focus on clean archite
 
 ## 💼 Experience
 
-### **Full Stack Developer Intern — CostBits, Denmark (2025–Present)**
+### **Full Stack Developer — CostBits, Denmark (2025–Present)**
 - Built a **Contract Management Dashboard** with dynamic data tracking and compliance alerts  
 - Refactored Issues Tracker & Supplier modules for **UI consistency and readability**  
 - Integrated **Google reCAPTCHA & hCaptcha** for secure onboarding  
