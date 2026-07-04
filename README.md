@@ -15,10 +15,11 @@ I build scalable, user‑friendly digital products with a focus on clean archite
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+), Ant Design  
-**Backend:** Node.js, Express, REST APIs, PostgreSQL, MySQL  
-**Testing & Tools:** Vitest, Vite, Sentry, Git/GitHub (CI/CD), hCaptcha, reCAPTCHA  
-**Concepts:** State Management, Performance Optimisation, Responsive Design, Operational Planning Logic
+**Frontend**: React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Ant Design, shadcn/ui
+**Backend & Data**: Node.js, Express, PostgreSQL, MySQL, Supabase, REST APIs
+**Testing & Monitoring**: Vitest, Vite, unit & integration testing, Sentry
+**Tooling**: Git/GitHub, CI/CD pipelines
+**Data & ML (in progress)**: Python, Pandas, Matplotlib, Seaborn, model building
 
 ---
 
@@ -58,8 +59,9 @@ Built with **React, Next.js, Node.js, MySQL**
 ---
 
 ## 🎓 Education
-- **M.Tech — Computer Science Engineering (2006–2008)**  
-- **B.Tech — Electronics & Communication Engineering (2001–2005)**  
+- **Data Science**: Machine Learning Specialist from Codecademy (in progress, 2026)
+- **M.Tech**, Computer Science Engineering (2006–2008)**  
+- **B.Tech**, Electronics & Communication Engineering (2001–2005)**  
 - Permanent Resident, Denmark (since 2024)
 
 ---
